@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(#21c08b, #ab88ff);;
+  margin: 0;
+  padding: 0;
+  color: #1E1E1F;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
